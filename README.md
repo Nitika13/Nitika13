@@ -10,7 +10,7 @@
 < Welcome to my digital space! >
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering;～(＾◡＾)～)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=AI+%26+ML+Otaku;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering;～(＾◡＾)～)
 
 </div>
 
