@@ -1,152 +1,198 @@
-# Hey there! 👋 I'm Nitika but I like EVE more. Eve is me only :) 
+# ✧･ﾟ: *✧･ﾟ:* Hey there! I'm Eve ･ﾟ✧*:･ﾟ✧
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Computer+Engineering+Student;Building+the+Future+with+Code!)
+```
+      ∩───∩
+     （  ◕   ◕ ）
+    /           \     < Kon'nichiwa! Welcome to my digital space! >
+   (  \_______/  )
+    \           /
+     \_______/
+```
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering+%40+Thapar;Making+AI+more+inclusive+～(＾◡＾)～)
 
 </div>
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pastel?style=flat-square&logo=linkedin&logoColor=white&color=E1BEE7)](https://linkedin.com/in/Nitika)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kawaii?style=flat-square&logo=LeetCode&logoColor=white&color=FFD1DC)](https://leetcode.com/nitika)
+[![Gmail](https://img.shields.io/badge/Gmail-soft?style=flat-square&logo=gmail&logoColor=white&color=B8E6B8)](mailto:nitikaahlawat3@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/nitika__/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitikaahlawat3@gmail.com)
+`currently watching: jujutsu kaisen s2 ･ﾟ✧*:･ﾟ✧`
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ✧･ﾟ: *about me* :･ﾟ✧
 
 ```python
 class Eve:
     def __init__(self):
-        self.name = "Nitika (Eve)"
-        self.location = "Patiala, Punjab 🇮🇳"
-        self.education = "Computer Engineering @ Thapar Institute"
-        self.cgpa = 8.23
-        self.current_focus = ["Deep Learning", "Full Stack Development", "AI for Social Good"]
-        self.fun_fact = "Building AI that makes the world more inclusive! 🌟"
-    
-    def get_current_work(self):
-        return [
-            "🔬 Research Intern - Deepfake Detection Framework",
-            "🤖 Building AI-powered learning platform for neurodiverse children",
-            "💡 Creating innovative solutions with 89%+ accuracy models"
-        ]
+        self.real_name = "Nitika"
+        self.goes_by = "Eve (◕‿◕)"
+        self.location = "Patiala, Punjab 🌸"
+        self.university = "Thapar Institute"
+        self.major = "Computer Engineering"
+        self.cgpa = "8.23 ✨"
+        self.personality = "ENFP" 
+        self.loves = ["anime", "coding", "boba tea", "late night debugging"]
+        self.current_mood = "excited about AI research (๑˃̵ᴗ˂̵)و"
+        
+    def current_anime_status(self):
+        return {
+            "watching": ["Jujutsu Kaisen", "Demon Slayer", "Attack on Titan"],
+            "favorite_genres": ["shounen", "slice of life", "sci-fi"],
+            "coding_playlist": "lo-fi anime beats ♪(´▽｀)"
+        }
+        
+    def life_philosophy(self):
+        return "code like you're the main character in your own anime! ✧"
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ♡ my tech world ♡
 
-### Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### languages i speak (both human & computer) 
+![Python](https://img.shields.io/badge/python-kawaii?style=for-the-badge&logo=python&logoColor=white&color=FFB6C1)
+![C++](https://img.shields.io/badge/c++-aesthetic?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=DDA0DD)
+![JavaScript](https://img.shields.io/badge/javascript-pastel?style=for-the-badge&logo=javascript&logoColor=white&color=F0E68C)
+![SQL](https://img.shields.io/badge/SQL-soft?style=for-the-badge&logo=mysql&logoColor=white&color=B8E6B8)
 
-### AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### ai/ml magic ✨
+![PyTorch](https://img.shields.io/badge/PyTorch-kawaii?style=for-the-badge&logo=PyTorch&logoColor=white&color=FFB6C1)
+![Pandas](https://img.shields.io/badge/pandas-aesthetic?style=for-the-badge&logo=pandas&logoColor=white&color=E6E6FA)
+![NumPy](https://img.shields.io/badge/numpy-dreamy?style=for-the-badge&logo=numpy&logoColor=white&color=F0F8FF)
+![Jupyter](https://img.shields.io/badge/jupyter-soft?style=for-the-badge&logo=jupyter&logoColor=white&color=DDD6FE)
 
-### Full Stack Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### full stack adventures 
+![React](https://img.shields.io/badge/react-pastel?style=for-the-badge&logo=react&logoColor=white&color=B8E6B8)
+![Spring Boot](https://img.shields.io/badge/spring-kawaii?style=for-the-badge&logo=spring&logoColor=white&color=FFD1DC)
+![Flask](https://img.shields.io/badge/flask-aesthetic?style=for-the-badge&logo=flask&logoColor=white&color=E1BEE7)
+![PostgreSQL](https://img.shields.io/badge/postgresql-dreamy?style=for-the-badge&logo=postgresql&logoColor=white&color=F5DEB3)
 
 ---
 
-## 🏆 Featured Projects
+## ˗ˏˋ ★ my projects ★ ˎˊ˗
 
-### 🔍 Deepfake Detection Framework
-**Research Intern @ TIET** | *Mar 2025 - Jul 2025*
-- 🎯 **89% Testing Accuracy, 91% Validation Accuracy**
-- 📊 Trained on **50GB dataset** with Data Augmentation & Teacher-Student Distillation
-- 🧠 **Tech:** PyTorch, GANs, EfficientNetb4, GPU Computing
+### 🎭 deepfake detection framework
+*currently in my research arc* 
+```
+status: main character energy ✨
+accuracy: 89% testing | 91% validation 
+dataset: 50GB of data (that's a lot of ramen bowls worth)
+tech stack: pytorch, gans, efficientnets
+vibe: "detecting fake faces like spotting plot armor"
+```
 
-### 🚀 CratEve - Product Management Platform
-**[Live Demo](https://crate-eve.vercel.app)** | *Jun 2025*
-- 💼 Full-stack platform for freelancers with **AI-powered recommendations**
-- 🔒 JWT authentication, role-based access control, secure APIs
-- 🤖 **AI Integration:** Flask microservice + Hugging Face Transformers
-- **Tech:** Spring Boot, React.js, PostgreSQL, Docker
+### 🌸 crateve - freelancer platform 
+**[check it out!](https://crate-eve.vercel.app)** 
+```
+what it does: helps freelancers manage their work ♡
+special power: ai recommendations (like anime suggestions but for products)
+tech magic: spring boot + react + ai models
+authentication: jwt tokens (secure like a tsundere's feelings)
+```
 
-### 🛡️ Suspicious Chat Detector
-**[GitHub](https://github.com/Nitika13)** | *Nov 2024*
-- 🎯 **97.5% Accuracy** in detecting illegal conversations
-- 📱 Processes WhatsApp chats up to **1MB**
-- 🧠 **Tech:** Python, ML, TF-IDF, Streamlit, NLP
+### 🕵️ suspicious chat detector 
+```
+accuracy: 97.5% (higher than my anime quiz scores)
+processes: whatsapp chats up to 1mb
+tech: python ml + streamlit 
+purpose: keeping conversations safe ♡
+```
 
-### 🌈 AI for Inclusivity (Capstone)
-*Mar 2025 - Present*
-- 🎓 Learning platform for **neurodiverse children**
-- 💬 AI chatbot providing **emotional support**
-- 🧠 **Tech:** Deep Learning, GenAI, LangChain, LLMs
+### 🌈 ai for inclusivity (capstone project)
+```
+mission: making learning accessible for neurodiverse kids
+features: ai chatbot for emotional support
+tech: deep learning + genai + llms
+inspiration: "everyone deserves their main character moment"
+```
 
 ---
 
-## 📊 GitHub Statistics
+## ･ﾟ✧ github stats that spark joy ✧ﾟ･
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitika13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitika13&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitika13&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F8BBD0&text_color=E6E6FA&icon_color=DDA0DD)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitika13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitika13&theme=buefy&hide_border=true&background=0d1117&stroke=F8BBD0&ring=DDA0DD&fire=FFB6C1&currStreakLabel=E6E6FA&currStreakNum=F8BBD0&sideNums=E6E6FA&sideLabels=DDA0DD&dates=B8E6B8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitika13&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=F8BBD0&text_color=E6E6FA)
 
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## ♡ achievements & certifications ♡
 
-🏆 **NVIDIA CUDA C/C++** - Accelerated Computing  
-🏆 **NVIDIA Data Science** - End-to-End Workflows (RAPIDS, cuML, XGBoost)  
-🎓 **TIET Merit Scholarship** - ₹170K based on academic excellence  
-💬 **Mental Health Ambassador** - Content Writer @ TIET Counselling Cell
+```
+🏆 nvidia cuda certification - "learned to make gpus go brrrr"
+🏆 nvidia data science workflows - "data magic with rapids & cuml" 
+🎓 tiet merit scholarship (₹170k) - "grades said main character energy"
+💬 mental health ambassador - "spreading good vibes like anime protagonists"
+```
 
 ---
 
-## 🎯 What I'm Up To
+## ⋆｡‧˚ʚ current quest status ɞ˚‧｡⋆
 
-```javascript
-const currentlyWorking = {
-    🔬 research: "Advanced deepfake detection with explainable AI",
-    🤖 development: "AI-powered inclusive learning platform",
-    📚 learning: "Scaling ML models & system design",
-    🌟 goal: "Making AI accessible and beneficial for everyone"
+```json
+{
+  "🔬 research_arc": "deepfake detection with explainable ai",
+  "🤖 side_quest": "building inclusive ai learning platform", 
+  "📚 grinding": "system design & scaling ml models",
+  "🌟 ultimate_goal": "making ai as wholesome as studio ghibli films",
+  "☕ fuel": "coffee + lo-fi anime beats",
+  "🎯 2025_goals": [
+    "complete engineering degree with style ✨",
+    "publish that research paper (manifesting!)",
+    "launch ai inclusivity platform",
+    "land dream ai/ml role",
+    "contribute to open source like a coding hero"
+  ]
 }
 ```
 
 ---
 
-## 📈 2025 Goals
+## ♪～(´ε｀ ) currently vibing to
 
-- [ ] 🎓 Complete Computer Engineering
-- [ ] 🔬 Publish research on deepfake detection
-- [ ] 🚀 Launch AI for Inclusivity platform
-- [ ] 💼 Land dream role in AI/ML and Software Engineering
-- [ ] 🌍 Contribute to open-source AI projects
+- **coding playlist**: lo-fi anime hip hop beats
+- **favorite anime OSTs**: demon slayer, spirited away, your name
+- **current obsession**: anything studio ghibli for those cozy coding sessions
+
+---
+
+## ･ﾟ✧ fun facts about me ✧ﾟ･
+
+- 🍡 i debug better with dango nearby 
+- 🌸 my variable names sometimes have anime references (oops)
+- 🎌 learning japanese through anime (and google translate)
+- 📱 my phone wallpaper changes with seasonal anime 
+- 🌙 night owl coder (vampire schedule like anime characters)
+- ☕ boba tea is my programming fuel 
 
 ---
 
 <div align="center">
 
-### 💫 "Building technology that makes the world more inclusive, one line of code at a time."
+```
+    ∧,,,∧
+   (  ̳• · • ̳)     thanks for visiting my profile! 
+   /    づ♡       let's code something kawaii together! ✧
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nitika13&label=Profile%20views&color=0e75b6&style=flat)
+### ✧･ﾟ: *✧･ﾟ:* "making the digital world more kawaii, one commit at a time" *:･ﾟ✧*:･ﾟ✧
 
-⭐ **If my work inspires you, give my repos a star!** ⭐
+![Profile Views](https://komarev.com/ghpvc/?username=Nitika13&label=visitors&color=F8BBD0&style=flat)
+
+`⋆｡‧˚ʚ if my repos make you smile, please give them a star! they need the serotonin ɞ˚‧｡⋆`
 
 </div>
