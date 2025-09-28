@@ -3,7 +3,7 @@
 <div align="center">
   
 ```
-     ∧,,,∧
+∧,,,∧
    (  ̳• · • ̳)     
    /    づ♡      
 
@@ -187,7 +187,7 @@ inspiration: "everyone deserves their main character moment"
 <div align="center">
 
 ```
-    ∧,,,∧
+∧,,,∧
    (  ̳• · • ̳)     
    /    づ♡      
 
