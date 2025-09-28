@@ -4,7 +4,7 @@
   
 ```
 ∧,,,∧
-   ( ̳• · • ̳)     
+    ( ̳• · • ̳)     
    /    づ♡      
 
 < Welcome to my digital space! >
@@ -31,7 +31,7 @@
 ```python
 class Eve:
     def __init__(self):
-        self.real_name = "Nitika 🌸"
+        self.real_name = "Nitika Ahlawat"
         self.goes_by = "Eve"
         self.university = "Thapar Institute of Engineering and Technology"
         self.major = "Computer Engineering"
@@ -140,7 +140,7 @@ inspiration: "everyone deserves their main character moment"
 ```
  nvidia cuda certification - "learned to make gpus go brrrr"
  nvidia data science workflows - "data magic with rapids & CUDA" 
- tiet merit scholarship (₹170k) - "grades said main character energy"
+ tiet merit scholarship - "grades said main character energy"
  mental health ambassador - "spreading good vibes like anime protagonists"
 ```
 
@@ -188,7 +188,7 @@ inspiration: "everyone deserves their main character moment"
 
 ```
 ∧,,,∧
-   ( ̳• · • ̳)     
+    ( ̳• · • ̳)     
    /    づ♡      
 
 thanks for visiting my profile! let's code something kawaii together! 
