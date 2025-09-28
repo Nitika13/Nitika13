@@ -4,13 +4,13 @@
   
 ```
 ∧,,,∧
-   (  ̳• · • ̳)     
+   ( ̳• · • ̳)     
    /    づ♡      
 
 < Welcome to my digital space! >
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering+%40;～(＾◡＾)～)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering;～(＾◡＾)～)
 
 </div>
 
@@ -76,7 +76,7 @@ class Eve:
 
 ## ★ my projects ★ 
 
-### 🎭 deepfake detection framework
+### deepfake detection framework
 *currently in my research arc* 
 ```
 status: main character energy 
@@ -86,7 +86,7 @@ tech stack: pytorch, gans, efficientnet
 vibe: "detecting fake faces like spotting plot armor"
 ```
 
-### 🌸 crateve - freelancer platform 
+### crateve - freelancer platform 
 **[https://crate-eve.vercel.app](https://crate-eve.vercel.app)** 
 ```
 what it does: helps freelancers manage their work ♡
@@ -188,7 +188,7 @@ inspiration: "everyone deserves their main character moment"
 
 ```
 ∧,,,∧
-   (  ̳• · • ̳)     
+   ( ̳• · • ̳)     
    /    づ♡      
 
 thanks for visiting my profile! let's code something kawaii together! 
