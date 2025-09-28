@@ -9,6 +9,7 @@
    (  \_______/  )
     \           /
      \_______/
+
 < Welcome to my digital space! >
 ```
 
@@ -28,7 +29,7 @@
 
 ---
 
-## : *about me* :
+## about me:
 
 ```python
 class Eve:
@@ -115,7 +116,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ✧ github stats that spark joy ✧
+##  github stats that spark joy 
 
 <div align="center">
 
@@ -137,7 +138,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ♡ look at my certifications :) ♡
+## ♡ look at my certifications I think they are cool :) ♡
 
 ```
  nvidia cuda certification - "learned to make gpus go brrrr"
@@ -148,7 +149,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ⋆ current quest status ⋆
+## current quest status 
 
 ```json
 {
@@ -178,10 +179,10 @@ inspiration: "everyone deserves their main character moment"
 
 ```json
 {
-  "🎵 coding_playlist": "lo-fi anime beats",
-  "🌸 current_obsession": "studio ghibli for cozy coding sessions",
-  "🎧 vibes": "anything that makes coding feel like a main character moment",
-  "☕ perfect_combo": "boba tea + anime OSTs + late night debugging"
+  "coding_playlist": "lo-fi anime beats",
+  "current_obsession": "studio ghibli for cozy coding sessions",
+  "vibes": "anything that makes coding feel like a main character moment",
+  "perfect_combo": "boba tea + anime OSTs + late night debugging"
 }
 ```
 
@@ -200,8 +201,10 @@ inspiration: "everyone deserves their main character moment"
 
 ```
     ∧,,,∧
-   (  ̳• · • ̳)     thanks for visiting my profile! 
-   /    づ♡       let's code something kawaii together! ✧
+   (  ̳• · • ̳)     
+   /    づ♡      
+
+thanks for visiting my profile! let's code something kawaii together! 
 ```
 
 ### "making the digital world more kawaii, one commit at a time"
