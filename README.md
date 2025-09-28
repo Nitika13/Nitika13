@@ -1,14 +1,15 @@
-#  Hey there! I'm Nitika but call me Eve :)  
+# Kon'nichiwa! I'm Nitika but call me Eve :)  
 
 <div align="center">
   
 ```
       ∩───∩
      （  ◕   ◕ ）
-    /           \     < Kon'nichiwa! Welcome to my digital space! >
+    /           \     
    (  \_______/  )
     \           /
      \_______/
+< Welcome to my digital space! >
 ```
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering+%40+Thapar;Making+AI+more+inclusive+～(＾◡＾)～)
@@ -21,7 +22,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-kawaii?style=flat-square&logo=LeetCode&logoColor=white&color=FFD1DC)](https://leetcode.com/nitika__)
 [![Gmail](https://img.shields.io/badge/Gmail-soft?style=flat-square&logo=gmail&logoColor=white&color=B8E6B8)](mailto:nitikaahlawat3@gmail.com)
 
-`currently watching: Demon SLayer (rewatching actually for the fourth time XD ･ﾟ✧*:･ﾟ✧`
+`currently watching: Demon Slayer (actually rewatching for the fourth time XD)` 
 
 </div>
 
@@ -44,7 +45,7 @@ class Eve:
         return {
             "watching": ["Alice in Borderland", "Demon Slayer", "Sakamoto Days"],
             "favorite_genres": ["shounen", "slice of life", "sci-fi"],
-            "coding_playlist": "lo-fi anime beats ♪(´▽｀) plus plus plus the demon slayer playlist is awesome ohh I love the Akaza Epic Theme"
+            "coding_playlist": "lo-fi anime beats ♪ plus plus plus the demon slayer playlist is awesome ohh I love the Akaza Epic Theme"
         }
         
     def life_philosophy(self):
@@ -61,7 +62,7 @@ class Eve:
 ![JavaScript](https://img.shields.io/badge/javascript-pastel?style=for-the-badge&logo=javascript&logoColor=white&color=F0E68C)
 ![SQL](https://img.shields.io/badge/SQL-soft?style=for-the-badge&logo=mysql&logoColor=white&color=B8E6B8)
 
-### ai/ml magic ✨
+### ai/ml magic 
 ![PyTorch](https://img.shields.io/badge/PyTorch-kawaii?style=for-the-badge&logo=PyTorch&logoColor=white&color=FFB6C1)
 ![Pandas](https://img.shields.io/badge/pandas-aesthetic?style=for-the-badge&logo=pandas&logoColor=white&color=E6E6FA)
 ![NumPy](https://img.shields.io/badge/numpy-dreamy?style=for-the-badge&logo=numpy&logoColor=white&color=F0F8FF)
@@ -75,12 +76,12 @@ class Eve:
 
 ---
 
-## ˗ˏˋ ★ my projects ★ ˎˊ˗
+## ★ my projects ★ 
 
 ### 🎭 deepfake detection framework
 *currently in my research arc* 
 ```
-status: main character energy ✨
+status: main character energy 
 accuracy: 89% testing | 91% validation 
 dataset: 50GB of data (that's a lot of ramen bowls worth)
 tech stack: pytorch, gans, efficientnet
@@ -88,7 +89,7 @@ vibe: "detecting fake faces like spotting plot armor"
 ```
 
 ### 🌸 crateve - freelancer platform 
-**[check it out!](https://crate-eve.vercel.app)** 
+**[https://crate-eve.vercel.app](https://crate-eve.vercel.app)** 
 ```
 what it does: helps freelancers manage their work ♡
 special power: ai recommendations (like anime suggestions but for products and services)
@@ -104,7 +105,7 @@ tech: python ml + streamlit
 purpose: keeping conversations safe ♡
 ```
 
-###  ai for inclusivity (capstone project)
+###  Capstone project
 ```
 mission: making learning accessible for neurodiverse kids
 features: ai chatbot for emotional support
@@ -114,7 +115,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ･ﾟ✧ github stats that spark joy ✧ﾟ･
+## ✧ github stats that spark joy ✧
 
 <div align="center">
 
@@ -126,18 +127,6 @@ inspiration: "everyone deserves their main character moment"
 
 </div>
 
----
-
-## ♡ wakatime coding stats ♡
-*tracking my coding adventures like anime episodes watched (◕‿◕)*
-
-<div align="center">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nitika13&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F8BBD0&text_color=E6E6FA&icon_color=DDA0DD&layout=compact)
-
-![Coding Activity](https://wakatime.com/share/@Nitika13/cd097b9e-0dc7-4b29-9c26-1e3d9c6b7a5c.svg)
-
-</div>
 
 ```
  weekly coding sessions: like binge-watching my favorite anime series
@@ -148,7 +137,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ♡ achievements & certifications ♡
+## ♡ look at my certifications :) ♡
 
 ```
  nvidia cuda certification - "learned to make gpus go brrrr"
@@ -159,7 +148,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ⋆｡‧˚ʚ current quest status ɞ˚‧｡⋆
+## ⋆ current quest status ⋆
 
 ```json
 {
@@ -169,7 +158,7 @@ inspiration: "everyone deserves their main character moment"
   " ultimate_goal": "making ai as wholesome as studio ghibli films",
   " fuel": "ramen + lo-fi anime beats",
   " 2025_goals": [
-    "complete engineering degree with style ✨",
+    "complete engineering degree with style ",
     "publish that research paper (manifesting!)",
     "launch ai inclusivity platform",
     "land dream job"
@@ -198,7 +187,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## ･ﾟ✧ fun facts about me ✧ﾟ･
+##  fun facts about me 
 
 - 🌸 my variable names sometimes have anime references (oops)
 - 🎌 learning japanese through anime (and google translate)
