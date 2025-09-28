@@ -3,17 +3,14 @@
 <div align="center">
   
 ```
-      ∩───∩
-     （  ◕   ◕ ）
-    /           \     
-   (  \_______/  )
-    \           /
-     \_______/
+     ∧,,,∧
+   (  ̳• · • ̳)     
+   /    づ♡      
 
 < Welcome to my digital space! >
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering+%40+Thapar;Making+AI+more+inclusive+～(＾◡＾)～)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=✧+AI+%26+ML+Otaku+✧;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering+%40;～(＾◡＾)～)
 
 </div>
 
@@ -35,7 +32,7 @@
 class Eve:
     def __init__(self):
         self.real_name = "Nitika 🌸"
-        self.goes_by = "Eve (◕‿◕)"
+        self.goes_by = "Eve"
         self.university = "Thapar Institute of Engineering and Technology"
         self.major = "Computer Engineering"
         self.personality = "ENPF" 
@@ -166,16 +163,6 @@ inspiration: "everyone deserves their main character moment"
   ]
 }
 ```
-
----
-
-## ♪currently vibing to
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=F8BBD0)](https://open.spotify.com/user/313g4w3ffvkdzab3dppi3uh2xtwe?si=d1e0d555d12d44f3)
-
-</div>
 
 ```json
 {
