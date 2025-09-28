@@ -130,6 +130,26 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
+## ♡ wakatime coding stats ♡
+*tracking my coding adventures like anime episodes watched (◕‿◕)*
+
+<div align="center">
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nitika13&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F8BBD0&text_color=E6E6FA&icon_color=DDA0DD&layout=compact)
+
+![Coding Activity](https://wakatime.com/share/@Nitika13/cd097b9e-0dc7-4b29-9c26-1e3d9c6b7a5c.svg)
+
+</div>
+
+```
+💻 weekly coding sessions: like binge-watching my favorite anime series
+🌙 most productive hours: late night coding with lo-fi beats
+☕ powered by: coffee, boba tea, and determination
+📊 languages: python leading the chart (as expected from an AI otaku)
+```
+
+---
+
 ## ♡ achievements & certifications ♡
 
 ```
@@ -164,9 +184,23 @@ inspiration: "everyone deserves their main character moment"
 
 ## ♪～(´ε｀ ) currently vibing to
 
-- **coding playlist**: lo-fi anime hip hop beats
-- **favorite anime OSTs**: demon slayer, spirited away, your name
-- **current obsession**: anything studio ghibli for those cozy coding sessions
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=F8BBD0)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5&unique=true)
+
+</div>
+
+```json
+{
+  "🎵 coding_playlist": "lo-fi anime hip hop beats",
+  "🎼 favorite_OSTs": ["demon slayer", "spirited away", "your name"],
+  "🌸 current_obsession": "studio ghibli for cozy coding sessions",
+  "🎧 vibes": "anything that makes coding feel like a main character moment",
+  "☕ perfect_combo": "boba tea + anime OSTs + late night debugging"
+}
+```
 
 ---
 
