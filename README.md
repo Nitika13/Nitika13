@@ -1,4 +1,4 @@
-# Kon'nichiwa! I'm Nitika but call me Eve :)  
+# Kon'nichiwa!:)  
 
 <div align="center">
   
