@@ -60,7 +60,7 @@ class Eve:
 ![JavaScript](https://img.shields.io/badge/javascript-pastel?style=for-the-badge&logo=javascript&logoColor=white&color=F0E68C)
 ![SQL](https://img.shields.io/badge/SQL-soft?style=for-the-badge&logo=mysql&logoColor=white&color=B8E6B8)
 
-### ai/ml magic 
+### ai/ml glitter
 ![PyTorch](https://img.shields.io/badge/PyTorch-kawaii?style=for-the-badge&logo=PyTorch&logoColor=white&color=FFB6C1)
 ![Pandas](https://img.shields.io/badge/pandas-aesthetic?style=for-the-badge&logo=pandas&logoColor=white&color=E6E6FA)
 ![NumPy](https://img.shields.io/badge/numpy-dreamy?style=for-the-badge&logo=numpy&logoColor=white&color=F0F8FF)
