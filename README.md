@@ -74,7 +74,7 @@ class Eve:
 
 ---
 
-## ★ my projects ★ 
+##  my projects 
 
 ### deepfake detection framework
 *currently in my research arc* 
