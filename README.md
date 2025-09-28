@@ -1,4 +1,4 @@
-# ✧･ﾟ: *✧･ﾟ:* Hey there! I'm Eve ･ﾟ✧*:･ﾟ✧
+#  Hey there! I'm Nitika but call me Eve :)  
 
 <div align="center">
   
@@ -17,40 +17,38 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pastel?style=flat-square&logo=linkedin&logoColor=white&color=E1BEE7)](https://linkedin.com/in/Nitika)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kawaii?style=flat-square&logo=LeetCode&logoColor=white&color=FFD1DC)](https://leetcode.com/nitika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pastel?style=flat-square&logo=linkedin&logoColor=white&color=E1BEE7)](https://www.linkedin.com/in/nitika-6ab64024a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kawaii?style=flat-square&logo=LeetCode&logoColor=white&color=FFD1DC)](https://leetcode.com/nitika__)
 [![Gmail](https://img.shields.io/badge/Gmail-soft?style=flat-square&logo=gmail&logoColor=white&color=B8E6B8)](mailto:nitikaahlawat3@gmail.com)
 
-`currently watching: jujutsu kaisen s2 ･ﾟ✧*:･ﾟ✧`
+`currently watching: Demon SLayer (rewatching actually for the fourth time XD ･ﾟ✧*:･ﾟ✧`
 
 </div>
 
 ---
 
-## ✧･ﾟ: *about me* :･ﾟ✧
+## : *about me* :
 
 ```python
 class Eve:
     def __init__(self):
-        self.real_name = "Nitika"
+        self.real_name = "Nitika 🌸"
         self.goes_by = "Eve (◕‿◕)"
-        self.location = "Patiala, Punjab 🌸"
-        self.university = "Thapar Institute"
+        self.university = "Thapar Institute of Engineering and Technology"
         self.major = "Computer Engineering"
-        self.cgpa = "8.23 ✨"
-        self.personality = "ENFP" 
-        self.loves = ["anime", "coding", "boba tea", "late night debugging"]
-        self.current_mood = "excited about AI research (๑˃̵ᴗ˂̵)و"
+        self.personality = "ENPF" 
+        self.loves = ["anime", "coding", "boba tea", "late night debugging", "ramen"]
+        self.current_mood = "excited about AI research"
         
     def current_anime_status(self):
         return {
-            "watching": ["Jujutsu Kaisen", "Demon Slayer", "Attack on Titan"],
+            "watching": ["Alice in Borderland", "Demon Slayer", "Sakamoto Days"],
             "favorite_genres": ["shounen", "slice of life", "sci-fi"],
-            "coding_playlist": "lo-fi anime beats ♪(´▽｀)"
+            "coding_playlist": "lo-fi anime beats ♪(´▽｀) plus plus plus the demon slayer playlist is awesome ohh I love the Akaza Epic Theme"
         }
         
     def life_philosophy(self):
-        return "code like you're the main character in your own anime! ✧"
+        return "code like you're the main character in your own anime!"
 ```
 
 ---
@@ -85,7 +83,7 @@ class Eve:
 status: main character energy ✨
 accuracy: 89% testing | 91% validation 
 dataset: 50GB of data (that's a lot of ramen bowls worth)
-tech stack: pytorch, gans, efficientnets
+tech stack: pytorch, gans, efficientnet
 vibe: "detecting fake faces like spotting plot armor"
 ```
 
@@ -93,12 +91,12 @@ vibe: "detecting fake faces like spotting plot armor"
 **[check it out!](https://crate-eve.vercel.app)** 
 ```
 what it does: helps freelancers manage their work ♡
-special power: ai recommendations (like anime suggestions but for products)
-tech magic: spring boot + react + ai models
+special power: ai recommendations (like anime suggestions but for products and services)
+tech magic: spring boot + react + ai models + it's mobile responsive also
 authentication: jwt tokens (secure like a tsundere's feelings)
 ```
 
-### 🕵️ suspicious chat detector 
+###  suspicious chat detector 
 ```
 accuracy: 97.5% (higher than my anime quiz scores)
 processes: whatsapp chats up to 1mb
@@ -106,7 +104,7 @@ tech: python ml + streamlit
 purpose: keeping conversations safe ♡
 ```
 
-### 🌈 ai for inclusivity (capstone project)
+###  ai for inclusivity (capstone project)
 ```
 mission: making learning accessible for neurodiverse kids
 features: ai chatbot for emotional support
@@ -142,10 +140,10 @@ inspiration: "everyone deserves their main character moment"
 </div>
 
 ```
-💻 weekly coding sessions: like binge-watching my favorite anime series
-🌙 most productive hours: late night coding with lo-fi beats
-☕ powered by: coffee, boba tea, and determination
-📊 languages: python leading the chart (as expected from an AI otaku)
+ weekly coding sessions: like binge-watching my favorite anime series
+ most productive hours: late night coding with lo-fi beats
+ powered by: ramen, boba tea, and determination
+ languages: python leading the chart (as expected from an AI otaku)
 ```
 
 ---
@@ -153,10 +151,10 @@ inspiration: "everyone deserves their main character moment"
 ## ♡ achievements & certifications ♡
 
 ```
-🏆 nvidia cuda certification - "learned to make gpus go brrrr"
-🏆 nvidia data science workflows - "data magic with rapids & cuml" 
-🎓 tiet merit scholarship (₹170k) - "grades said main character energy"
-💬 mental health ambassador - "spreading good vibes like anime protagonists"
+ nvidia cuda certification - "learned to make gpus go brrrr"
+ nvidia data science workflows - "data magic with rapids & CUDA" 
+ tiet merit scholarship (₹170k) - "grades said main character energy"
+ mental health ambassador - "spreading good vibes like anime protagonists"
 ```
 
 ---
@@ -165,37 +163,33 @@ inspiration: "everyone deserves their main character moment"
 
 ```json
 {
-  "🔬 research_arc": "deepfake detection with explainable ai",
-  "🤖 side_quest": "building inclusive ai learning platform", 
-  "📚 grinding": "system design & scaling ml models",
-  "🌟 ultimate_goal": "making ai as wholesome as studio ghibli films",
-  "☕ fuel": "coffee + lo-fi anime beats",
-  "🎯 2025_goals": [
+  " research_arc": "deepfake detection with explainable ai",
+  " side_quest": "building inclusive ai learning platform", 
+  " grinding": "system design & scaling ml models",
+  " ultimate_goal": "making ai as wholesome as studio ghibli films",
+  " fuel": "ramen + lo-fi anime beats",
+  " 2025_goals": [
     "complete engineering degree with style ✨",
     "publish that research paper (manifesting!)",
     "launch ai inclusivity platform",
-    "land dream ai/ml role",
-    "contribute to open source like a coding hero"
+    "land dream job"
   ]
 }
 ```
 
 ---
 
-## ♪～(´ε｀ ) currently vibing to
+## ♪currently vibing to
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=F8BBD0)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5&unique=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=F8BBD0)](https://open.spotify.com/user/313g4w3ffvkdzab3dppi3uh2xtwe?si=d1e0d555d12d44f3)
 
 </div>
 
 ```json
 {
-  "🎵 coding_playlist": "lo-fi anime hip hop beats",
-  "🎼 favorite_OSTs": ["demon slayer", "spirited away", "your name"],
+  "🎵 coding_playlist": "lo-fi anime beats",
   "🌸 current_obsession": "studio ghibli for cozy coding sessions",
   "🎧 vibes": "anything that makes coding feel like a main character moment",
   "☕ perfect_combo": "boba tea + anime OSTs + late night debugging"
@@ -206,12 +200,10 @@ inspiration: "everyone deserves their main character moment"
 
 ## ･ﾟ✧ fun facts about me ✧ﾟ･
 
-- 🍡 i debug better with dango nearby 
 - 🌸 my variable names sometimes have anime references (oops)
 - 🎌 learning japanese through anime (and google translate)
-- 📱 my phone wallpaper changes with seasonal anime 
 - 🌙 night owl coder (vampire schedule like anime characters)
-- ☕ boba tea is my programming fuel 
+- ☕ ramen soup is my programming fuel 
 
 ---
 
@@ -223,10 +215,10 @@ inspiration: "everyone deserves their main character moment"
    /    づ♡       let's code something kawaii together! ✧
 ```
 
-### ✧･ﾟ: *✧･ﾟ:* "making the digital world more kawaii, one commit at a time" *:･ﾟ✧*:･ﾟ✧
+### "making the digital world more kawaii, one commit at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nitika13&label=visitors&color=F8BBD0&style=flat)
 
-`⋆｡‧˚ʚ if my repos make you smile, please give them a star! they need the serotonin ɞ˚‧｡⋆`
+` if my repos make you smile, please give them a star! they need the serotonin`
 
 </div>
