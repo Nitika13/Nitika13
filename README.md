@@ -113,7 +113,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-##  github stats that spark joy 
+##  github stats that spark joy ʚଓ
 
 <div align="center">
 
@@ -175,7 +175,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-##  fun facts about me 
+##  fun facts about me ʚଓ
 
 - 🌸 my variable names sometimes have anime references (oops)
 - 🎌 learning japanese through anime (and google translate)
