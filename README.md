@@ -1,4 +1,4 @@
-# Kon'nichiwa!:)  
+# Kon'nichiwa! :)  
 
 <div align="center">
   
