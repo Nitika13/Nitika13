@@ -76,7 +76,7 @@ class Eve:
 
 ##  my projects 
 
-### deepfake detection framework
+### deepfake detection framework ✿
 *currently in my research arc* 
 ```
 status: main character energy 
@@ -86,7 +86,7 @@ tech stack: pytorch, gans, efficientnet
 vibe: "detecting fake faces like spotting plot armor"
 ```
 
-### crateve - freelancer platform 
+### crateve - freelancer platform ✿
 **[https://crate-eve.vercel.app](https://crate-eve.vercel.app)** 
 ```
 what it does: helps freelancers manage their work ♡
@@ -95,7 +95,7 @@ tech magic: spring boot + react + ai models + it's mobile responsive also
 authentication: jwt tokens (secure like a tsundere's feelings)
 ```
 
-###  suspicious chat detector 
+###  suspicious chat detector ✿
 ```
 accuracy: 97.5% (higher than my anime quiz scores)
 processes: whatsapp chats up to 1mb
@@ -103,7 +103,7 @@ tech: python ml + streamlit
 purpose: keeping conversations safe ♡
 ```
 
-###  Capstone project
+###  Capstone project ✿
 ```
 mission: making learning accessible for neurodiverse kids
 features: ai chatbot for emotional support
@@ -138,7 +138,7 @@ inspiration: "everyone deserves their main character moment"
 ## ♡ look at my certifications I think they are cool :) ♡
 
 ```
- nvidia cuda certification - "learned to make gpus go brrrr"
+ nvidia cuda certification - "learned to make gpus go brrrr" 
  nvidia data science workflows - "data magic with rapids & CUDA" 
  tiet merit scholarship - "grades said main character energy"
  mental health ambassador - "spreading good vibes like anime protagonists"
@@ -146,7 +146,7 @@ inspiration: "everyone deserves their main character moment"
 
 ---
 
-## current quest status 
+## current quest status ʚଓ
 
 ```json
 {
@@ -194,7 +194,7 @@ inspiration: "everyone deserves their main character moment"
 thanks for visiting my profile! let's code something kawaii together! 
 ```
 
-### "making the digital world more kawaii, one commit at a time"
+### "Sayonara"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nitika13&label=visitors&color=F8BBD0&style=flat)
 
