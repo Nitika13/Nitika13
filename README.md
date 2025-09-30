@@ -75,7 +75,6 @@ class Eve:
 
 ---
 
-##  github stats that spark joy ʚଓ
 
 <div align="center">
 
