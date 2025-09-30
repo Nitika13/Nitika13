@@ -74,45 +74,6 @@ class Eve:
 
 ---
 
-##  my projects 
-
-### deepfake detection framework ✿
-*currently in my research arc* 
-```
-status: main character energy 
-accuracy: 89% testing | 91% validation 
-dataset: 50GB of data (that's a lot of ramen bowls worth)
-tech stack: pytorch, gans, efficientnet
-vibe: "detecting fake faces like spotting plot armor"
-```
-
-### crateve - freelancer platform ✿
-**[https://crate-eve.vercel.app](https://crate-eve.vercel.app)** 
-```
-what it does: helps freelancers manage their work ♡
-special power: ai recommendations (like anime suggestions but for products and services)
-tech magic: spring boot + react + ai models + it's mobile responsive also
-authentication: jwt tokens (secure like a tsundere's feelings)
-```
-
-###  suspicious chat detector ✿
-```
-accuracy: 97.5% (higher than my anime quiz scores)
-processes: whatsapp chats up to 1mb
-tech: python ml + streamlit 
-purpose: keeping conversations safe ♡
-```
-
-###  Capstone project ✿
-```
-mission: making learning accessible for neurodiverse kids
-features: ai chatbot for emotional support
-tech: deep learning + genai + llms
-inspiration: "everyone deserves their main character moment"
-```
-
----
-
 ##  github stats that spark joy ʚଓ
 
 <div align="center">
@@ -127,7 +88,7 @@ inspiration: "everyone deserves their main character moment"
 
 
 ```
- weekly coding sessions: like binge-watching my favorite anime series
+ coding sessions: like binge-watching my favorite anime series
  most productive hours: late night coding with lo-fi beats
  powered by: ramen, boba tea, and determination
  languages: python leading the chart (as expected from an AI otaku)
@@ -166,10 +127,10 @@ inspiration: "everyone deserves their main character moment"
 
 ```json
 {
-  "coding_playlist": "lo-fi anime beats",
+  "coding_playlist": "lo-fi beats",
   "current_obsession": "studio ghibli for cozy coding sessions",
   "vibes": "anything that makes coding feel like a main character moment",
-  "perfect_combo": "boba tea + anime OSTs + late night debugging"
+  "perfect_combo": "boba tea + lofi music + late night debugging"
 }
 ```
 
@@ -197,7 +158,5 @@ thanks for visiting my profile! let's code something kawaii together!
 ### "Sayonara"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nitika13&label=visitors&color=F8BBD0&style=flat)
-
-` if my repos make you smile, please give them a star! they need the serotonin`
 
 </div>
