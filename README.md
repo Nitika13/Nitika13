@@ -8,6 +8,7 @@
    /    づ♡      
 
 < Welcome to my digital space! >
+
 ```
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=800&color=F8BBD0&center=true&vCenter=true&width=700&lines=AI+%26+ML+Otaku;Coding+like+it's+my+anime+arc;Building+the+future+with+✨kawaii✨+code;Computer+Engineering;～(＾◡＾)～)
@@ -85,14 +86,6 @@ class Eve:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitika13&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=F8BBD0&text_color=E6E6FA)
 
 </div>
-
-
-```
- coding sessions: like binge-watching my favorite anime series
- most productive hours: late night coding with lo-fi beats
- powered by: ramen, boba tea, and determination
- languages: python leading the chart (as expected from an AI otaku)
-```
 
 ---
 
