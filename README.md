@@ -130,7 +130,7 @@ class Eve:
 
 ##  fun facts about me ʚଓ
 
-- 🌸 my variable names sometimes have anime references (oops)
+- 🌸 my variable names sometimes have anime references
 - 🎌 learning japanese through anime (and google translate)
 - 🌙 night owl coder (vampire schedule like anime characters)
 - ☕ ramen soup is my programming fuel 
