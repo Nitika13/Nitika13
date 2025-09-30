@@ -109,7 +109,7 @@ class Eve:
   " ultimate_goal": "making ai as wholesome as studio ghibli films",
   " fuel": "ramen + lo-fi anime beats",
   " 2025_goals": [
-    "complete engineering degree with style ",
+    "studying my engineering degree with style ",
     "publish that research paper (manifesting!)",
     "launch ai inclusivity platform",
     "land dream job"
