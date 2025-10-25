@@ -93,8 +93,6 @@ class Eve:
 ```
  nvidia cuda certification - "learned to make gpus go brrrr" 
  nvidia data science workflows - "data magic with rapids & CUDA" 
- tiet merit scholarship - "grades said main character energy"
- mental health ambassador - "spreading good vibes like anime protagonists"
 ```
 
 ---
