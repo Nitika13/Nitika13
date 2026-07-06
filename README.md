@@ -32,7 +32,7 @@
 ```python
 class Eve:
     def __init__(self):
-        self.real_name = "Nitika Ahlawat"
+        self.real_name = "Nitika"
         self.goes_by = "Eve"
         self.university = "Thapar Institute of Engineering and Technology"
         self.major = "Computer Engineering"
