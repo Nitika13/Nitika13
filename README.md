@@ -33,7 +33,6 @@
 class Eve:
     def __init__(self):
         self.real_name = "Nitika"
-        self.goes_by = "Eve"
         self.university = "Thapar Institute of Engineering and Technology"
         self.major = "Computer Engineering"
         self.personality = "ENPF" 
@@ -101,7 +100,6 @@ class Eve:
 
 ```json
 {
-  " research_arc": "deepfake detection with explainable ai",
   " side_quest": "building inclusive ai learning platform", 
   " grinding": "system design & scaling ml models",
   " ultimate_goal": "making ai as wholesome as studio ghibli films",
